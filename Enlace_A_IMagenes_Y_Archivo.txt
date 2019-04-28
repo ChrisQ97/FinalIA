@@ -1,8 +1,19 @@
  
-Repositorio de imagenes:
+Repositorio de imagenes de entrenamiento:
 
 https://drive.google.com/drive/folders/1DLjT1d_JoKk9MJMe7GAWb2YQQchjbeyy?usp=sharing
+
+Repositorio de imagenes de validacion:
+
+https://drive.google.com/drive/folders/16ukGslNDm7s1KPZjM7PofQP06t9sZH8S?usp=sharing
 
 Archivo de trabajo:
 
 https://docs.google.com/document/d/1nXdwdxqKP-pW9CiwCQbc9CqLBsUFlZicPN6WvuL6HVc/edit?usp=sharing
+
+Modelo de la cnn:
+
+https://drive.google.com/drive/folders/12q9eWdy1pkcDkhrqLgJZCN5NBaTunJh4?usp=sharing
+
+
+
